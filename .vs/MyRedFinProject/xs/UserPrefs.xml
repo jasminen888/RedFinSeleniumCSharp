@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{3001744D-7A30-44C8-A85B-FBE9A65EFFC6}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MyRedFinProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tests/BaseTests.cs">
+    <Files>
+      <File FileName="Tests/PropertySearchTest.cs" />
+      <File FileName="PageObjects/SearchPage.cs" />
+      <File FileName="Tests/BaseTests.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyRedFinProject" expanded="True">
+            <Node name="MyRedFinProject" expanded="True">
+              <Node name="PageObjects" expanded="True" />
+              <Node name="Tests" expanded="True">
+                <Node name="BaseTests.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="MyRedFinProject" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
